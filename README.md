@@ -1,12 +1,3 @@
-Got it — below are updated README.md files for each zip, with the requirements fully included inside the README (so users don’t need to open requirements.txt to know what to install).
-
-(And yes: you can just drop these README.md files into each zip before uploading.)
-
-
----
-
-README.md for the Web App zip (FastAPI)
-
 # 2STL — Image → 3D Exporter (Relief + Figurine) — Web App (Local-only)
 
 A **local-only** web app that converts:
